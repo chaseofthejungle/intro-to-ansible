@@ -23,6 +23,6 @@ CentOS or RHEL:
   
 ## <a name="resources">2. Supplemental Resources</a>
   
-[Getting Started with Ansible (Official)](http://www.ansible.com/get-started)  
-[Ansible Collaborative (Community for learning and sharing Ansible content)](https://www.redhat.com/en/ansible-collaborative)  
-[Ansible Galaxy (Provides collections/roles, which contain pre-packaged Ansible content)](http://galaxy.ansible.com)
+* [Getting Started with Ansible (Official)](http://www.ansible.com/get-started)  
+* [Ansible Collaborative (Community for learning and sharing Ansible content)](https://www.redhat.com/en/ansible-collaborative)  
+* [Ansible Galaxy (Provides collections/roles, which contain pre-packaged Ansible content)](http://galaxy.ansible.com)
